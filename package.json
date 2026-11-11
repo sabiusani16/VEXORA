@@ -1,0 +1,13 @@
+{
+  "name": "vexora",
+  "version": "0.1.0",
+  "private": true,
+  "description": "VEXORA — Connect Beyond Limits.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
